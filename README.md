@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gylleadhe a junior programmer from Brazil
 - 👀 I’m interested in many Program Languagues
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJs and NextJs
 - 💞️ I’m looking to collaborate on some project in my university
 - 📫 How to reach me https://gylleadhe-dev.netlify.app
 
