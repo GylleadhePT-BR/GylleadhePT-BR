@@ -5,5 +5,5 @@
 - 📫 How to reach me (https://portfolio-gylleadhe.vercel.app)
 
 # My-Codes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gylleadhe)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GylleadhePT-BR)](https://github.com/anuraghazra/github-readme-stats)
 
