@@ -6,12 +6,14 @@
 - 💞️ I’m looking to collaborate on some project in my university
 - 📫 How to reach me (https://portfolio-gylleadhe.vercel.app)
 
+# Chek My Portolio to get to know me better 👻🐱‍👤
+![image](https://github.com/user-attachments/assets/f7c5e5cd-1056-4546-8e6e-7db324128abf)
+<a href="https://wa.me/5581998817527"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+
 # My Tech Stack 🖥⌨🖱
 <h3>Here you will find all Technologies and apps then <br> i use for all this projects in my profile</h3>
 
 ###
-![image](https://github.com/user-attachments/assets/b6a7a46b-a95e-4cae-937c-84222a7ded8e)
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
