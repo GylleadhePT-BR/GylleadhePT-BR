@@ -10,8 +10,8 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GylleadheDev&hide_border=true&show_icons=true&theme=tokyonight#gh-dark-mode-onl&yhide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GylleadheDev&layout=compact&theme=tokyonight&hide_border=true)
 
-
-[![Button Icon]][Link]
+<div>
+  [![Button Icon]][Link]
 <!----------------------------------------------------------------------------->
 [Link]: # 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
@@ -28,4 +28,6 @@
 [Link]: # 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Icon]:https://img.shields.io/badge/Instagram-6A329F?style=for-the-badge&logoColor=white&logo=instagram
+</div>
+
 
