@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GylleadheDev&layout=compact&theme=tokyonight&hide_border=true)
 
 <div class="button-group minor-group">
-    <a href="#" class="button primary">Dashboard</a>
+    <a href="https://portfolio-gylleadhe.vercel.app/" class="button primary">Dashboard</a>
     <a href="#" class="button">Inbox</a>
     <a href="#" class="button">Account</a>
     <a href="#" class="button">Logout</a>
