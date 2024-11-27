@@ -10,9 +10,4 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GylleadheDev&hide_border=true&show_icons=true&theme=tokyonight#gh-dark-mode-onl&yhide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GylleadheDev&layout=compact&theme=tokyonight&hide_border=true)
 
-<div class="button-group minor-group">
-    <a href="https://portfolio-gylleadhe.vercel.app/" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
-</div>
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=Files
