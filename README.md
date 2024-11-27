@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on some project in my university
 - 📫 How to reach me (https://portfolio-gylleadhe.vercel.app)
 
-# My Tech Stack
+# My Tech Stack 🖥⌨🖱
 <h3>Here you will find all Technologies and apps then <br> i use for all this projects in my profile</h3>
   
 <div align="left">
