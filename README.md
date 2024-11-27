@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on some project in my university
 - 📫 How to reach me (https://portfolio-gylleadhe.vercel.app)
 
+# My Tech Stack
+<h3>Here you will find all Technologies and apps then <br> i use for all this projects in my profile</h3>
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
