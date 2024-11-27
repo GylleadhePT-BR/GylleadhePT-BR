@@ -16,3 +16,16 @@
 [Link]: # 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Icon]:https://img.shields.io/badge/Instagram-6A329F?style=for-the-badge&logoColor=white&logo=instagram
+
+[![Button Icon]][Link]
+<!----------------------------------------------------------------------------->
+[Link]: # 'Link with example title.'
+<!---------------------------------[ Buttons ]--------------------------------->
+[Button Icon]:https://img.shields.io/badge/Instagram-6A329F?style=for-the-badge&logoColor=white&logo=instagram
+
+[![Button Icon]][Link]
+<!----------------------------------------------------------------------------->
+[Link]: # 'Link with example title.'
+<!---------------------------------[ Buttons ]--------------------------------->
+[Button Icon]:https://img.shields.io/badge/Instagram-6A329F?style=for-the-badge&logoColor=white&logo=instagram
+
