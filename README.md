@@ -78,6 +78,8 @@
 
 ###
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GylleadheDev&repo=portfolio)](https://github.com/GylleadheDev/portfolio)
+
 
 
 
