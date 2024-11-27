@@ -13,7 +13,8 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide-border:true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+    
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </picture>
