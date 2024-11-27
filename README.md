@@ -10,6 +10,7 @@
 <h3>Here you will find all Technologies and apps then <br> i use for all this projects in my profile</h3>
 
 ###
+![image](https://github.com/user-attachments/assets/b6a7a46b-a95e-4cae-937c-84222a7ded8e)
 
 
 <div align="center">
@@ -78,7 +79,7 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GylleadheDev&repo=portfolio)]
+
 
 
 
