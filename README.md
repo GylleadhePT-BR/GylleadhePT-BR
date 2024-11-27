@@ -7,7 +7,7 @@
 # My-Codes
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko"
     media="(prefers-color-scheme: dark),(hide-border:true)"
   />
   <source
