@@ -10,6 +10,14 @@
 # My-Codes 👨‍💻
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GylleadheDev&hide_border=true&show_icons=true&theme=tokyonight#gh-dark-mode-onl&yhide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GylleadheDev&layout=compact&theme=tokyonight&hide_border=true)
+
+# Talk to me 😎
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+
 # Tech Stack 💻
 <h3>Here you will find some technologies and programs that i used for all projects in my profile</h3>
 
@@ -29,11 +37,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Talk to me 😎
-![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
 
