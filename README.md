@@ -1,4 +1,4 @@
-# Hi , My name Is Gyleadhe , Wellcome!! 😎👨‍💻
+# Hi , My name Is Gylleadhe , Wellcome!! 😎👨‍💻
 
 - 👋 Hi, I’m a junior programmer from Brazil
 - 👀 I’m interested in many Program Languagues
@@ -78,7 +78,7 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GylleadheDev&repo=portfolio)](https://github.com/GylleadheDev/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GylleadheDev&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
