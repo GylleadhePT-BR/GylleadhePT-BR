@@ -15,4 +15,4 @@
 <!----------------------------------------------------------------------------->
 [Link]: # 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=Files
+[Button Icon]:https://img.shields.io/badge/Instagram-6A329F?style=for-the-badge&logoColor=white&logo=instagram
