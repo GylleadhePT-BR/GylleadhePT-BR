@@ -8,7 +8,7 @@
 
 # Chek My Portolio to get to know me better 👻🐱‍👤
 ![image](https://github.com/user-attachments/assets/f7c5e5cd-1056-4546-8e6e-7db324128abf)
-<a href="https://wa.me/5581998817527"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+<a href="https://portfolio-gylleadhe.vercel.app/"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 
 # My Tech Stack 🖥⌨🖱
 <h3>Here you will find all Technologies and apps then <br> i use for all this projects in my profile</h3>
