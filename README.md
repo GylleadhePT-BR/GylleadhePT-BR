@@ -9,7 +9,7 @@
 # Chek My Portolio to get to know me better 👻🐱‍👤
 ![image](https://github.com/user-attachments/assets/f7c5e5cd-1056-4546-8e6e-7db324128abf)
 <div align="center">
-  <a href="https://portfolio-gylleadhe.vercel.app/"><img src="https://img.shields.io/static/v1?message=My portfoliob&logo=github&label=&color=1e2c47&logoColor=white&labelColor=&style=for-the-badge" height="70" alt="whatsapp logo"  />
+  <a href="https://portfolio-gylleadhe.vercel.app/" style="border-radius:20px"><img src="https://img.shields.io/static/v1?message=My portfolio&logo=github&label=&color=1e2c47&logoColor=white&labelColor=&style=for-the-badge" height="70" alt="whatsapp logo"  />
 </div>
 
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
