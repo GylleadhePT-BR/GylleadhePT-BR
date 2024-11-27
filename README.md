@@ -9,7 +9,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GylleadheDev&hide_border=true&show_icons=true&theme=tokyonight#gh-dark-mode-onl&yhide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GylleadheDev&layout=compact&theme=tokyonight&hide_border=true)
 
-# Talk to me 😎
+# Talk to me 🥳🤗
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
